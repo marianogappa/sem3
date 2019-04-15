@@ -19,6 +19,12 @@ $ sem3 | head
 10083	Beauty	Tools & Accessories	Nail Tools	Cuticle Pushers
 ```
 
+## How do I install it?
+
+```
+$ go get -u github.com/marianogappa/sem3
+```
+
 ## How do I use it?
 
 ```
